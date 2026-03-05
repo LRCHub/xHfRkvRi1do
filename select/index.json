@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "DAN DAN 心魅かれてく [tribute 2024]",
+  "base_artist": "SARD UNDERGROUND",
+  "createdAt": "2026-03-05T19:17:26.508319Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DAN DAN 心魅かれてく",
+      "artist": "FIELD OF VIEW",
+      "has_synced": true,
+      "path": "select/01_DAN_DAN_心魅かれてく_FIELD_OF_VIEW.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dan Dan",
+      "artist": "Gülşen",
+      "has_synced": true,
+      "path": "select/02_Dan_Dan_Gülşen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DAN DAN 心魅かれてく",
+      "artist": "FIELD OF VIEW",
+      "has_synced": true,
+      "path": "select/03_DAN_DAN_心魅かれてく_FIELD_OF_VIEW.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DAN DAN 心魅かれてく",
+      "artist": "ZARD",
+      "has_synced": false,
+      "path": "select/04_DAN_DAN_心魅かれてく_ZARD.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DAN DAN 心魅かれてく",
+      "artist": "Shoko Nakagawa",
+      "has_synced": true,
+      "path": "select/05_DAN_DAN_心魅かれてく_Shoko_Nakagawa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dan Dan",
+      "artist": "Loredana Bertè",
+      "has_synced": true,
+      "path": "select/06_Dan_Dan_Loredana_Bertè.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DAN DAN 心魅かれてく",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/07_DAN_DAN_心魅かれてく_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dan Dan",
+      "artist": "Mehrad Hidden feat. Moody Moussavi",
+      "has_synced": true,
+      "path": "select/08_Dan_Dan_Mehrad_Hidden_feat._Moody_Moussavi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dan Dan",
+      "artist": "Mehrad Hidden, Moody Moussavi",
+      "has_synced": true,
+      "path": "select/09_Dan_Dan_Mehrad_Hidden,_Moody_Moussavi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dan dan - Remastered Version",
+      "artist": "Loredana Bertè",
+      "has_synced": true,
+      "path": "select/10_Dan_dan_-_Remastered_Version_Loredana_Bertè.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dan Dan Kokoro Mikareteku",
+      "artist": "FIELD OF VIEW",
+      "has_synced": true,
+      "path": "select/11_Dan_Dan_Kokoro_Mikareteku_FIELD_OF_VIEW.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "DAN DAN Kokoro Hikarete ku",
+      "artist": "FIELD OF VIEW",
+      "has_synced": true,
+      "path": "select/12_DAN_DAN_Kokoro_Hikarete_ku_FIELD_OF_VIEW.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dan Dan Kokoro Hikareteku (From \"Dragon Ball GT\")",
+      "artist": "Mark De Groot",
+      "has_synced": true,
+      "path": "select/13_Dan_Dan_Kokoro_Hikareteku_(From__Dragon_Ball_GT_)_Mark_De_Groot.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "DAN DAN kokorohikareteku",
+      "artist": "Shoko Nakagawa",
+      "has_synced": true,
+      "path": "select/14_DAN_DAN_kokorohikareteku_Shoko_Nakagawa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DAN DAN心魅かれてく",
+      "artist": "SARD UNDERGROUND",
+      "has_synced": false,
+      "path": "select/pl_01_DAN_DAN心魅かれてく_SARD_UNDERGROUND.txt"
+    }
+  ]
+}
